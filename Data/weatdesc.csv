@@ -1,0 +1,5 @@
+﻿Name,Type,Description
+date,Date/Time,The date of the observation
+precipitation,numeric,The amount of rainfall on that day in inches
+t_max,Integer,The high tempeture for that day in degrees Fahrenheit
+t_min,Integer,The low tempeture for that day in degrees Fahrenheit
